@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "vector": "cpp",
+        "valarray": "cpp",
+        "ratio": "cpp",
+        "random": "cpp",
+        "xstring": "cpp",
+        "iostream": "cpp"
+    }
+}
