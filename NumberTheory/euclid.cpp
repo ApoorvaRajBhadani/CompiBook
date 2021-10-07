@@ -4,7 +4,7 @@ typedef long long int ll;
 #define fo(i,s,e_ex) for(i=s;i<e_ex;i++)
 #define endl '\n'
 #define MOD 1000000007//998244353
-
+// if both a & b are zero gcd in not defined(or infinity)
 ll gcdrec(ll a,ll b){
     a=abs(a);
     b=abs(b);
